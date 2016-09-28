@@ -1,0 +1,10 @@
+[package]
+name = "markdown_meta"
+version = "0.0.1"
+authors = ["Lee Olayvar <leeolayvar@gmail.com>"]
+
+[dependencies]
+nom = "1.2.4"
+
+[dev-dependencies]
+stainless = "0.1.6"
