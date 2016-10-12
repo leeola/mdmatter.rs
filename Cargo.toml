@@ -1,5 +1,5 @@
 [package]
-name = "markdown_meta"
+name = "mdmatter"
 version = "0.0.1"
 authors = ["Lee Olayvar <leeolayvar@gmail.com>"]
 
